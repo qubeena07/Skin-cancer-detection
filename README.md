@@ -2,6 +2,7 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify skin lesions as either malignant or benign using a dataset of labeled images. It leverages TensorFlow and Keras for building and training the model.
 
+Find the code in Kaggle - (https://www.kaggle.com/code/dipikaranabhat/skin-cancer-detection)
 ---
 
 ## Dataset
