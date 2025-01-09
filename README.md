@@ -1,4 +1,4 @@
-# Skin Cancer Detection Using CNN
+# Skin Cancer Detection Using ResNet50 and custom fully connected layers
 
 This project implements a Convolutional Neural Network (CNN) to classify skin lesions as either malignant or benign using a dataset of labeled images. It leverages TensorFlow and Keras for building and training the model.
 
